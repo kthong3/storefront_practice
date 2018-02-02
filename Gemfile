@@ -32,6 +32,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'solidus'
 gem 'solidus_auth_devise'
+gem 'deface'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
